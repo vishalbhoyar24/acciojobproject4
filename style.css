@@ -176,7 +176,7 @@ i:hover{
 }
 
 .about-us .left{
-    border: 2px solid #aaa;
+/*     border: 2px solid #aaa; */
    width: 30%;
    margin-bottom: 8rem;
 }
